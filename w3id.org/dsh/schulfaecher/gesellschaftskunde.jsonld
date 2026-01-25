@@ -24,6 +24,13 @@
       "Opetus saksaksi"
     ]
   },
+  "broader": {
+    "id": "https://w3id.org/dsh/schulfaecher/geisteswissenschaften",
+    "prefLabel": {
+      "de": "Geisteswissenschaften",
+      "fi": "humanistiset tieteet"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/dsh/schulfaecher/",
@@ -36,15 +43,6 @@
   "inSchemeAll": [
     {
       "id": "https://w3id.org/dsh/schulfaecher/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://w3id.org/dsh/schulfaecher/",
-      "title": {
-        "en": "School Subjects at a German school in Finland",
-        "de": "Schulfächer an einer deutschen Schule in Finnland"
-      }
     }
   ],
   "@context": {
